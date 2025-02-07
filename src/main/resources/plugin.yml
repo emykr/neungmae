@@ -1,0 +1,13 @@
+name: neungmae
+version: '1.0-SNAPSHOT'
+main: io.sobixn.matchup.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ Sobini_, F_T1043 ]
+description: This is the Powerful Match System Plugin
+website: https://github.com/sobixn/neungmae
+commands:
+  match:
+    description: Match Command
+    permission: prematch.admin.test
+
