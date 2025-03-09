@@ -10,4 +10,4 @@ commands:
   match:
     description: Match Command
     permission: prematch.admin.test
-
+depend: [ProtocolLib]
